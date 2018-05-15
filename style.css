@@ -25,12 +25,13 @@ h3 {
     margin: 20px;
     font-weight: bold;
     position: relative;
-    text-align: center;
+    
     text-transform: uppercase;
 }
 
 h3 {
     position: relative;
+    margin: 10px auto;
 }
 
 h3:after {
